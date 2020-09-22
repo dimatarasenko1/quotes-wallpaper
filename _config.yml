@@ -1,5 +1,7 @@
 markdown: kramdown
 
+baseurl: /quotes-wallpaper
+
 exclude:
   - .gitignore
   - Gemfile
