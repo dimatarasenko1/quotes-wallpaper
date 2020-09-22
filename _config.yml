@@ -1,0 +1,9 @@
+markdown: kramdown
+
+exclude:
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - .sass-cache
+  - CNAME
+  - LICENSE
